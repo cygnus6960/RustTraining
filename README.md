@@ -1,0 +1,2 @@
+# RustTraining
+Rust study
