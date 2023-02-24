@@ -1,2 +1,2 @@
 # RustTraining
-Rust study
+This is my Rust study repo. 
